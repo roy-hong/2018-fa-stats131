@@ -1,2 +1,2 @@
-# 2018-fa-stats131
-Repository for STATS 131 class at UCLA
+# STAT-131-Project
+Group Project by Python_Boiz.append(Girl)™
